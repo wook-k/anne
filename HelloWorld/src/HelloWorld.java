@@ -18,6 +18,10 @@ public class HelloWorld {
 		System.out.println("Hello Start");
 		System.out.println(new Date().getTime());  //현재시간		
 		//System.out.println("민영이최고");
+		System.out.println(new Date().getTime());  //현재시간
+		System.out.println("민서민영이아빠");
+		System.out.println("최고");
+
 	}
 
 }
