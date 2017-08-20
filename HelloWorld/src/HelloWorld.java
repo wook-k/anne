@@ -17,6 +17,7 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello Start");
 		System.out.println(new Date().getTime());  //⑷營衛除
+		System.out.println("團憮團艙檜嬴緒");
 	}
 
 }
